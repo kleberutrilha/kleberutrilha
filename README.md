@@ -2,7 +2,7 @@
 
 👋 Olá! me chamo Kleber
 
-🤝seja bem-vindo(a) ao meu perfil. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, assim como os cursos da Alura e Hashtag Treinamentospara aperfeiçoamento pessoal e profissional.
+🤝seja bem-vindo(a) ao meu perfil. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, assim como os cursos da Alura e Hashtag Treinamentos para aperfeiçoamento pessoal e profissional.
 
 💻 Tenho como objetivo me tornar um Analista de Dados.
 
