@@ -2,14 +2,18 @@
 
 👋 Olá! me chamo Kleber
 
-🤝seja bem-vindo(a) ao meu perfil. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, assim como os cursos da Alura e Hashtag Treinamentos para aperfeiçoamento pessoal e profissional.
+🤝seja bem-vindo(a) ao meu perfil. Formado Análise e Desenvolvimento de Sistemas e continuo com meu desenvolvimento com os cursos da Alura e Hashtag Treinamentos para aperfeiçoamento profissional.
 
-💻 Tenho como objetivo me tornar um Analista de Dados.
+Atualmente trabalho como Analista de Dados.
+
+💻 Tenho como objetivo me tornar um Cientista de Dados.
 
 //EN
 
-👋 Hi, my name is Leonardo.
+👋 Hello! My name is Kleber.
 
-🤝 Welcome to my profile. Currently, I’ve been taking System Analysis and Development classes and Alura’s and Hashtag Training courses for personal and professional improvement.
+🤝 Welcome to my profile. I have a degree in Systems Analysis and Development, and I continue to further my development through courses at Alura and Hashtag Treinamentos for professional improvement.
 
-💻 My goal is to become a Data Analyst.
+Currently, I work as a Data Analyst.
+
+💻 My goal is to become a Data Scientist.
